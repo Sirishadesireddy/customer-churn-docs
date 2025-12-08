@@ -1,0 +1,2 @@
+2. Place dataset at `helpdesk.csv` or update the path in the notebook.
+3. Run `notebooks/it_service_desk_analysis.ipynb`
